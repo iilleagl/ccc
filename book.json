@@ -87,16 +87,16 @@
 "discount":
 [
 	{
-		"name":"",
+		"name":"新华字典",
 		"author":"",
-		"Oprice":"",
-		"price":""
+		"Oprice":"100",
+		"price":"79"
 	},
 		{
-		"name":"",
+		"name":"湘军史",
 		"author":"",
-		"Oprice":"",
-		"price":""
+		"Oprice":"99",
+		"price":"49"
 	},
 		{
 		"name":"",
